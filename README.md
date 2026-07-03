@@ -4,10 +4,11 @@ Soy una estudiante de **Ingeniería Informática en la UPIICSA (IPN)**, apasiona
 
 ## Mi Trayectoria
 * 📖🎓 Ex-estudiante de **Lingüística (UNAM)**.
+* 📖🎓 Graduada de técnica en informática en CECyT 13
 * 🚂💻 Actualmente **Futura Ingeniera Informática (UPIICSA - IPN)**.
   
 ## 🚀 Sobre mí
-- 🎓 Actualmente cursando la ingeniería en tercer semestre en el **Politécnico**.
+- 🎓 Actualmente cursando la ingeniería en cuarto semestre en el **Politécnico**.
 - 💻 Enfocada en dominar **Java y C++**.
 
 ## 🛠️ Tecnologías y Herramientas
