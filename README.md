@@ -19,7 +19,7 @@ Soy una estudiante de **Ingeniería Informática en la UPIICSA (IPN)**, apasiona
 </p>
 
 ## 📈 Mis Proyectos
-* [comida-rapida-java]([https://github.com/Nava220503/comida-rapida-java](https://github.com/Nava220503/comida-rapidaVs.git)): Gestión de pedidos usando POO y JavaFX.
+* [comida-rapida-java](https://github.com/Nava220503/comida-rapidaVs.git): Gestión de pedidos usando POO y JavaFX.
 * *Próximamente: Mi Portafolio Web Personal.*
 
 ---
