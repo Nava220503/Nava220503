@@ -1,15 +1,16 @@
-# ¡Hola! Soy Nava 👋 (Ariana Nava)
+# ¡Hola! Soy Nava  (Ariana Nava)
 
-Soy una estudiante de **Ingeniería Informática en la UPIICSA (IPN)**, apasionada por la tecnología y el desarrollo de software. Me encanta encontrar soluciones lógicas a problemas.
+Soy una estudiante de **Ingeniería Informática en la UPIICSA (IPN)**, apasionada por la tecnología y el desarrollo de software. Me encanta encontrar soluciones lógicas a problemas.Además, adoro aprender cosas nuevas,así como leer y escribir en mis tiempos libres. Soy alguien muy empática y por ello se me facilita el trabajo en equipo.
 
 ## Mi Trayectoria
-* 📖🎓 Ex-estudiante de **Lingüística (UNAM)**.
-* 📖🎓 Graduada de técnica en informática en CECyT 13
-* 🚂💻 Actualmente **Futura Ingeniera Informática (UPIICSA - IPN)**.
+* Graduada de **técnica en informática (CECyT 13 - IPN)**
+* Ex-estudiante de **Lingüística (UNAM)**.
+* Actualmente **Futura Ingeniera Informática (UPIICSA - IPN)**.
   
-## 🚀 Sobre mí
-- 🎓 Actualmente cursando la ingeniería en cuarto semestre en el **Politécnico**.
-- 💻 Enfocada en dominar **Java y C++**.
+## Sobre mí
+- Actualmente cursando la ingeniería en cuarto semestre en el **Politécnico**.
+- Enfocada en dominar **Java y C++**.
+- Aprendiendo nuevas tecnologias como Docker y Spring
 
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
